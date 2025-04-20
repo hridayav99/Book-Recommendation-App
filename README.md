@@ -9,7 +9,7 @@ This project is a **Book Recommendation System** that suggests books based on us
 
 - Semantic book recommendations based on user-described scenarios
 - Emotion-based filtering (Happy, Sad, Surprising, etc.)
-- Category-based filtering (e.g., Fiction, Non-fiction, etc.)
+- Category-based filtering (e.g., Fiction, Non-fiction)
 - Interactive web interface built with Gradio
 - Vector-based similarity search with LangChain and ChromaDB
 
@@ -21,9 +21,9 @@ This project is a **Book Recommendation System** that suggests books based on us
 - Raw book data was imported from a Kaggle dataset - https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata
 - Cleaned and filtered to keep relevant records/columns
 
-### 2. Text Classification & Sentiment Analysis (Performed this using GoogleColab for GPU compute)
+### 2. Text Classification & Sentiment Analysis (Performed this using Google Colab for GPU compute)
 - Finding categories (Fiction / Non-fiction) for books with missing categories using zero-shot classification
-- Book descriptions are tagged with emotional scores (joy, sadness, fear, etc.) using sentiment analysis model
+- Book descriptions are tagged with emotional scores (joy, sadness, fear, etc.) using a sentiment analysis model
 - This enables filtering recommendations based on the user's emotional preference and book categories
 
 ### 3. Gradio Dashboard with Vector Store
