@@ -18,7 +18,7 @@ This project is a **Book Recommendation System** that suggests books based on us
 ## 🧠 How it works
 
 ### 1. Data Exploration
-- Raw book data was imported from a Kaggle dataset
+- Raw book data was imported from a Kaggle dataset - https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata
 - Cleaned and filtered to keep relevant records/columns
 
 ### 2. Text Classification & Sentiment Analysis (Performed this using GoogleColab for GPU compute)
