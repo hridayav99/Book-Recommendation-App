@@ -2,6 +2,7 @@
 
 This project is a **Book Recommendation System** that suggests books based on user input and emotional preferences. It uses natural language processing, sentiment analysis, and a Gradio-powered dashboard to deliver personalized book recommendations.
 
+![App Screenshot](Images/recommendation_with_category_and_tone.png)
 ---
 
 ## 🚀 Features
